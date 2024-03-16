@@ -26,7 +26,7 @@
 
 <p align="left" style="background:yellow">
   <img align="center" src="https://img.shields.io/badge/-romeu.sousadp@gmail.com-05122A?style=flat&logo=gmail" alt="Gmail"/>
-<a href="https://wa.me/seu_numero_de_telefone" target="_blank">
+<a href="https://wa.me/99991273522" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="WhatsApp"/>
 </a>
 <a href="https://linkedin.com/in/sromeulima" target="_blank">
