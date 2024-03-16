@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/romeulima/02b0734cf251d680389c4f4522a5f1cf/raw/452a029b574049e26dc57c026e5788ee19fcf59d/githubcard.svg"/>
 
-<h1 align="left"><span style="color: yellow;">console.log</span>("I'm Romeu Lima")<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left"><span style="color: yellow;">console.log</span>("I'm Romeu")<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 - 🔥 A Frontend Developer passionate about technology and focused on learning
   
