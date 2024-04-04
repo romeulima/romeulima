@@ -2,7 +2,7 @@
 
 <h1 align="left"><span style="color: yellow;">System.out.println("I'm Romeu")<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
-- 🔥 A Frontend Developer passionate about technology and focused on learning
+- 🔥 A Backend Developer passionate about technology and focused on learning
   
 - 🔭 I am currently coursing Software Engineering at [UNDB](https://www.instagram.com/undboficial)
 
