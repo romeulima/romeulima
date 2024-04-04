@@ -1,12 +1,12 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/romeulima/02b0734cf251d680389c4f4522a5f1cf/raw/452a029b574049e26dc57c026e5788ee19fcf59d/githubcard.svg"/>
+<img align="right" height="590em" src="https://gist.githubusercontent.com/romeulima/2d176ee31d395465147615c79a848234/raw/b83648feb842ec65ce6da6a0011c3599e8068cbb/github-card2.0.svg"/>
 
-<h1 align="left"><span style="color: yellow;">console.log</span>("I'm Romeu")<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left"><span style="color: yellow;">System.out.println("I'm Romeu")<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 - 🔥 A Frontend Developer passionate about technology and focused on learning
   
 - 🔭 I am currently coursing Software Engineering at [UNDB](https://www.instagram.com/undboficial)
 
-- 💬 Ask me about **JavaScript, HTML and CSS**
+- 💬 Ask me about **Java, Spring...**
 
 - 👨‍💻 More at [in/sromeulima](https://www.linkedin.com/in/sromeulima/)
 
@@ -14,6 +14,8 @@
   
 ### 🛠 &nbsp;Tech Stack
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
