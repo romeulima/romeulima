@@ -14,12 +14,12 @@
   
 ### 🛠 &nbsp;Tech Stack
 
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=spring)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Database](https://img.shields.io/badge/-Database-05122A?style=flat&logo=database)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
 <br>
 
