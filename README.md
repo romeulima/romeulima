@@ -6,7 +6,7 @@
   
 - 🔭 I am currently coursing Software Engineering at [UNDB](https://www.instagram.com/undboficial)
 
-- 💬 Ask me about **Golang, Docker, AWS, Database...**
+- 💬 Ask me about **Java, Spring, Docker, AWS, Database...**
 
 - 👨‍💻 More at [in/sromeulima](https://www.linkedin.com/in/sromeulima/)
 
