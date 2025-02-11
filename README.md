@@ -1,12 +1,12 @@
 <img align="right" height="590em" src="https://gist.githubusercontent.com/romeulima/2d176ee31d395465147615c79a848234/raw/b83648feb842ec65ce6da6a0011c3599e8068cbb/github-card2.0.svg"/>
 
-<h1 align="left"><span style="color: yellow;">System.out.println("I'm Romeu")<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left"><span style="color: yellow;">puts "I'm Romeu"<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 - 🔥 A Backend Developer passionate about technology and focused on learning
   
 - 🔭 I am currently coursing Software Engineering at [UNDB](https://www.instagram.com/undboficial)
 
-- 💬 Ask me about **Java, Spring, Docker, AWS, Database...**
+- 💬 Ask me about **Ruby, Rails, Docker, AWS, Database...**
 
 - 👨‍💻 More at [in/sromeulima](https://www.linkedin.com/in/sromeulima/)
 
@@ -14,12 +14,11 @@
   
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=spring)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
+![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=rails)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Database](https://img.shields.io/badge/-Database-05122A?style=flat&logo=database)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 <br>
 
@@ -27,14 +26,8 @@
 
 <p align="left" style="background:yellow">
   <img align="center" src="https://img.shields.io/badge/-romeu.sousadp@gmail.com-05122A?style=flat&logo=gmail" alt="Gmail"/>
-<a href="https://wa.me/99991273522" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="WhatsApp"/>
-</a>
 <a href="https://linkedin.com/in/sromeulima" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/romeudevl" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
